@@ -1,0 +1,229 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region,store_id,rating
+1100,nida_iqbal,Notebook,Stationery,3,443.28,2024-06-25,central,ST1,4.0
+1047,HASSAN SHEIKH,Desk Chair,Furniture,5,171.24,2024-06-26,West,ST4,2.0
+1106,farhan_ahmed,Toaster,Appliances,4,472.98,2024-05-02,North,ST1,4.0
+1023,Imran Khan,Desk Chair,Furniture,1,291.69,2024-05-08,Central ,ST4,5.0
+1079,  bilal butt  ,Desk Chair,Furniture,2,233.42,2024-03-10,WEST,ST6,4.0
+1123,USMAN SHEIKH,Sofa,Furniture,3,121.95,2024-06-09, south ,ST2,
+1126,Adeel Iqbal,Smartphone,Electronics,2,309.43,2024-06-15,east ,ST5,5.0
+1171,Farhan Qureshi,Toaster,Appliances,6,378.71,2024-02-05,North,ST1,
+1025,  asad iqbal  ,Desk Chair,Furniture,1,311.59,2024-06-20,central,ST2,2.0
+1114,fatima_sheikh,Bookshelf,Furniture,5,461.16,2024-06-11, south ,ST2,1.0
+1012,FARHAN IQBAL,Headphones,Electronics,2,435.91,2024-02-11,EAST,ST3,
+1216,  kamran malik  ,Desk Chair,Furniture,5,408.53,2024-05-24,South,ST4,
+1075,IMRAN MALIK,Microwave,Appliances,2,237.66,2024-06-26,North ,ST4,
+1181,  rabia ahmed  ,Pen Set,Stationery,5,374.93,2024-06-06,EAST,ST1,2.0
+1003,  bilal raza  ,Laptop,Electronics,3,350.58,2024-04-07, south ,ST1,
+1103,ZAINAB SIDDIQUI,Smartphone,Electronics,4,295.26,2024-03-11,Central ,ST1,2.0
+1211,ZAINAB QURESHI,Backpack,Accessories,7,151.12,2024-06-16,east ,ST5,3.0
+1110,Nida Malik,Pen Set,Stationery,5,190.28,2024-04-20, south ,ST1,
+1091,Kamran Ahmed,Notebook,Stationery,5,496.38,2024-01-13,Central ,ST6,
+1185,KAMRAN BUTT,Blender,Appliances,3,467.29,2024-01-03,central,ST1,5.0
+1169,ASAD ABBASI,Sofa,Furniture,7,186.14,2024-03-14,North ,ST5,5.0
+1109,sadia_siddiqui,Yoga Mat,Sportswear,4,217.88,2024-01-25,South,ST4,3.0
+1085,  rabia qureshi  ,Sofa,Furniture,7,326.67,2024-01-10,east ,ST5,2.0
+1058,nida_butt,Headphones,Electronics,5,309.88,2024-03-23,Central ,ST3,
+1117,  asad butt  ,Desk Chair,Furniture,2,175.86,2024-04-11,North,ST2,1.0
+1213,Hassan Khan,Headphones,Electronics,1,264.35,2024-06-10,South,ST2,
+1183,fatima_qureshi,Headphones,Electronics,1,482.44,2024-02-21,east ,ST6,3.0
+1102,Maria Khan,Running Shoes,Sportswear,8,50.38,2024-02-02,North ,ST2,2.0
+1157,Rabia Sheikh,Laptop,Electronics,6,279.24,2024-04-11, south ,ST3,
+1206,MAHNOOR MALIK,Desk Chair,Furniture,6,325.12,2024-04-06,North,ST3,5.0
+1086,Sadia Malik,Pen Set,Stationery,5,498.73,2024-06-26,east ,ST2,1.0
+1159,Farhan Khan,Headphones,Electronics,3,385.05,2024-03-18,WEST,ST2,3.0
+1140,Hina Malik,Backpack,Accessories,7,60.04,2024-06-12,West,ST4,4.0
+1103,ZAINAB SIDDIQUI,Smartphone,Electronics,4,295.26,2024-03-11,Central ,ST1,2.0
+1066,  fatima khan  ,Notebook,Stationery,5,237.35,2024-01-17,east ,ST1,1.0
+1142,Farhan Siddiqui,Desk Chair,Furniture,7,97.72,2024-05-09,WEST,ST5,5.0
+1154,  adeel raza  ,Yoga Mat,Sportswear,2,134.58,2024-02-01,east ,ST2,1.0
+1194,SARA BUTT,Desk Chair,Furniture,8,50.02,2024-04-26,WEST,ST4,5.0
+1083,Bilal Butt,Backpack,Accessories,7,196.11,2024-05-31,EAST,ST5,1.0
+1061,nida_butt,Desk Chair,Furniture,7,246.85,2024-03-16,North,ST1,
+1133,FATIMA IQBAL,Yoga Mat,Sportswear,3,300.64,2024-04-15,east ,ST1,
+1010,  maria butt  ,Water Bottle,Accessories,7,300.22,2024-06-23,WEST,ST1,
+1019,ayesha_khan,Microwave,Appliances,1,338.32,2024-03-04,North ,ST1,5.0
+1115,  fatima siddiqui  ,Backpack,Accessories,4,191.22,2024-06-01,North ,ST5,1.0
+1081,hina_iqbal,Toaster,Appliances,5,411.17,2024-05-17,EAST,ST4,3.0
+1096,mahnoor_malik,Pen Set,Stationery,7,483.8,2024-05-17,North,ST3,3.0
+1067,HINA MALIK,Notebook,Stationery,1,80.1,2024-04-16, south ,ST5,
+1214,sara_iqbal,Headphones,Electronics,1,113.27,2024-01-02,east ,ST1,4.0
+1219,Omar Abbasi,Backpack,Accessories,8,139.19,2024-01-05,EAST,ST3,5.0
+1099,bilal_qureshi,Microwave,Appliances,2,53.11,2024-06-27,North ,ST6,4.0
+1015,usman_ahmed,Notebook,Stationery,7,482.36,2024-05-12,North ,ST4,2.0
+1028,  farhan khan  ,Backpack,Accessories,5,307.78,2024-03-08, south ,ST2,1.0
+1105,ayesha_malik,Bookshelf,Furniture,1,67.75,2024-05-11,east ,ST3,4.0
+1041,usman_abbasi,Blender,Appliances,6,235.17,2024-01-22,EAST,ST6,
+1046,omar_abbasi,Microwave,Appliances,5,377.13,2024-04-22,West,ST3,3.0
+1158,  hassan sheikh  ,Microwave,Appliances,7,385.74,2024-04-29, south ,ST4,3.0
+1032,SARA SIDDIQUI,Laptop,Electronics,5,185.5,2024-01-27,West,ST6,5.0
+1174,ali_iqbal,Blender,Appliances,5,399.39,2024-05-28,central,ST6,
+1170,MARIA MALIK,Microwave,Appliances,5,413.53,2024-04-05, south ,ST4,3.0
+1033,ZAINAB SHEIKH,Yoga Mat,Sportswear,7,487.05,2024-02-15,South,ST1,3.0
+1014,RABIA SHEIKH,Smartphone,Electronics,8,408.93,2024-02-12,east ,ST5,
+1134,ADEEL RAZA,Desk Chair,Furniture,8,307.24,2024-02-19,central,ST4,5.0
+1139,Maria Khan,Backpack,Accessories,3,380.63,2024-02-25,North,ST3,5.0
+1146,kamran_abbasi,Desk Chair,Furniture,1,161.22,2024-06-14,central,ST1,3.0
+1029,  imran raza  ,Backpack,Accessories,3,139.81,2024-03-05,WEST,ST4,
+1064,  farhan iqbal  ,Microwave,Appliances,5,363.67,2024-03-16, south ,ST2,2.0
+1095,imran_malik,Yoga Mat,Sportswear,8,483.86,2024-02-27, south ,ST2,
+1129,OMAR IQBAL,Sofa,Furniture,2,281.19,2024-05-29,North ,ST1,3.0
+1016,ZAINAB IQBAL,Desk Chair,Furniture,2,172.35,2024-06-30,North,ST1,2.0
+1035,Zainab Raza,Desk Chair,Furniture,8,178.08,2024-03-25,West,ST4,1.0
+1059,adeel_iqbal,Yoga Mat,Sportswear,2,143.07,2024-05-06,North ,ST1,2.0
+1175,MARIA QURESHI,Laptop,Electronics,8,89.4,2024-05-26,West,ST1,1.0
+1037,Imran Qureshi,Laptop,Electronics,2,300.3,2024-02-18,South,ST5,
+1098,adeel_ahmed,Sofa,Furniture,4,325.59,2024-01-12, south ,ST2,3.0
+1204,HINA QURESHI,Toaster,Appliances,6,349.67,2024-03-02,WEST,ST4,3.0
+1052,kamran_ahmed,Desk Chair,Furniture,8,166.79,,central,ST1,5.0
+1199,  mahnoor sheikh  ,Toaster,Appliances,7,412.56,,West,ST6,
+1161,ASAD SHEIKH,Bookshelf,Furniture,2,253.77,2024-06-03,Central ,ST6,5.0
+1097,MAHNOOR MALIK,Pen Set,Stationery,5,294.36,2024-06-07,east ,ST1,5.0
+1205,rabia_qureshi,Running Shoes,Sportswear,3,403.86,2024-02-04,WEST,ST5,3.0
+1127,IMRAN MALIK,Microwave,Appliances,3,479.07,2024-06-30,North,ST2,4.0
+1132,Hassan Ahmed,Microwave,Appliances,4,117.14,,WEST,ST5,3.0
+1193,FARHAN RAZA,Yoga Mat,Sportswear,2,35.57,2024-05-13,EAST,ST3,
+1155,  hassan siddiqui  ,Microwave,Appliances,3,449.85,2024-05-18, south ,ST5,3.0
+1038,usman_siddiqui,Blender,Appliances,1,262.36,2024-03-25, south ,ST6,
+1151,FATIMA KHAN,Blender,Appliances,6,258.98,,Central ,ST6,1.0
+1089,ADEEL AHMED,Bookshelf,Furniture,8,,2024-03-29, south ,ST4,3.0
+1149,hina_ahmed,Headphones,Electronics,5,164.0,2024-04-19,Central ,ST6,4.0
+1116,hassan_ahmed,Headphones,Electronics,3,378.45,2024-06-04,South,ST4,3.0
+1050,kamran_siddiqui,Microwave,Appliances,4,140.1,2024-02-02,EAST,ST4,5.0
+1180,  mahnoor sheikh  ,Pen Set,Stationery,7,448.4,2024-01-21,North,ST3,4.0
+1006,OMAR MALIK,Pen Set,Stationery,6,85.51,2024-03-03,WEST,ST6,4.0
+1018,Sadia Raza,Notebook,Stationery,8,125.28,2024-04-20, south ,ST6,4.0
+1144,Imran Sheikh,Pen Set,Stationery,2,386.89,2024-03-27,North ,ST5,2.0
+1135,farhan_abbasi,Microwave,Appliances,8,385.87,2024-06-03,EAST,ST2,3.0
+1191,BILAL BUTT,Yoga Mat,Sportswear,5,186.93,2024-06-04,east ,ST6,
+1203,fatima_qureshi,Bookshelf,Furniture,1,280.58,2024-06-13,North,ST3,
+1121,Hassan Qureshi,Headphones,Electronics,8,416.85,2024-05-30,West,ST4,1.0
+1087,MAHNOOR QURESHI,Laptop,Electronics,6,399.09,2024-04-15,West,ST5,
+1063,Usman Siddiqui,Microwave,Appliances,5,156.78,2024-02-17,WEST,ST6,
+1065,  sara khan  ,Bookshelf,Furniture,1,355.47,2024-05-05,EAST,ST6,1.0
+1027,MAHNOOR MALIK,Smartphone,Electronics,4,255.41,2024-02-10,North ,ST3,5.0
+1118,  bilal ahmed  ,Laptop,Electronics,4,154.2,2024-01-02,North ,ST1,4.0
+1042,ZAINAB AHMED,Pen Set,Stationery,6,51.23,2024-01-07,West,ST2,4.0
+1053,SARA KHAN,Laptop,Electronics,6,115.99,2024-06-08,West,ST1,2.0
+1166,  fatima siddiqui  ,Running Shoes,Sportswear,7,127.89,2024-05-07,West,ST2,4.0
+1198,Zainab Khan,Headphones,Electronics,7,266.78,2024-06-21,central,ST4,4.0
+1107,  hassan malik  ,Pen Set,Stationery,2,247.68,2024-01-17,Central ,ST2,5.0
+1082,usman_raza,Toaster,Appliances,7,230.4,2024-01-12,West,ST4,4.0
+1008,  adeel sheikh  ,Yoga Mat,Sportswear,6,110.25,2024-05-23,EAST,ST2,
+1092,MAHNOOR RAZA,Microwave,Appliances,5,388.99,2024-06-22,Central ,ST3,
+1200,maria_khan,Blender,Appliances,1,124.13,2024-06-29,Central ,ST6,2.0
+1167,kamran_abbasi,Microwave,Appliances,5,251.2,2024-05-29,West,ST2,1.0
+1071,BILAL AHMED,Yoga Mat,Sportswear,4,215.44,2024-02-12, south ,ST1,5.0
+1201,USMAN KHAN,Backpack,Accessories,1,204.12,2024-02-29,WEST,ST3,
+1130,hassan_ahmed,Bookshelf,Furniture,7,68.83,2024-06-20,North ,ST2,
+1009,zainab_sheikh,Notebook,Stationery,7,449.42,2024-01-29, south ,ST1,2.0
+1122,Fatima Malik,Blender,Appliances,5,374.17,2024-02-19,WEST,ST5,3.0
+1080,USMAN IQBAL,Microwave,Appliances,4,231.11,2024-04-16, south ,ST3,
+1141,RABIA KHAN,Smartphone,Electronics,2,419.16,,EAST,ST3,3.0
+1181,  rabia ahmed  ,Pen Set,Stationery,5,374.93,2024-06-06,EAST,ST1,2.0
+1030,  sara khan  ,Laptop,Electronics,2,318.97,2024-03-08,EAST,ST6,4.0
+1004,rabia_malik,Sofa,Furniture,5,404.53,2024-03-16, south ,ST5,5.0
+1040,  maria iqbal  ,Blender,Appliances,7,340.27,2024-01-01,South,ST5,2.0
+1051,HASSAN QURESHI,Laptop,Electronics,7,297.99,2024-01-13,east ,ST2,3.0
+1078,MARIA RAZA,Microwave,Appliances,8,65.11,2024-01-04,central,ST5,1.0
+1220,asad_raza,Headphones,Electronics,7,464.79,2024-04-08,WEST,ST3,2.0
+1112,MAHNOOR MALIK,Blender,Appliances,1,484.36,2024-05-03,EAST,ST6,1.0
+1196,HINA QURESHI,Laptop,Electronics,2,493.14,2024-06-14,EAST,ST6,3.0
+1055,asad_qureshi,Bookshelf,Furniture,2,291.45,2024-05-31,West,ST1,
+1044,Farhan Butt,Laptop,Electronics,2,390.32,2024-02-01,WEST,ST2,
+1179,nida_siddiqui,Bookshelf,Furniture,5,353.93,2024-03-11,North ,ST5,5.0
+1049,hina_qureshi,Running Shoes,Sportswear,7,241.1,2024-05-19,WEST,ST6,2.0
+1172,  bilal siddiqui  ,Microwave,Appliances,8,78.73,2024-06-06,EAST,ST4,3.0
+1060,  omar iqbal  ,Microwave,Appliances,4,180.64,2024-05-12,WEST,ST1,1.0
+1054,OMAR SIDDIQUI,Microwave,Appliances,2,284.16,2024-01-30,Central ,ST5,2.0
+1021,zainab_sheikh,Running Shoes,Sportswear,1,484.65,2024-02-24,east ,ST4,1.0
+1125,hassan_ahmed,Bookshelf,Furniture,5,297.75,2024-01-15,east ,ST1,3.0
+1215,hina_khan,Laptop,Electronics,1,267.06,2024-01-25,EAST,ST1,2.0
+1148,Farhan Ahmed,Sofa,Furniture,3,250.62,2024-04-20,South,ST1,
+1077,Nida Butt,Blender,Appliances,1,97.85,2024-05-20,West,ST3,3.0
+1187,Omar Sheikh,Smartphone,Electronics,6,85.43,2024-05-25,North ,ST3,2.0
+1108,hina_butt,Pen Set,Stationery,6,193.55,2024-01-30, south ,ST6,
+1178,omar_iqbal,Yoga Mat,Sportswear,6,275.41,2024-03-12,West,ST2,2.0
+1013,  ayesha siddiqui  ,Yoga Mat,Sportswear,1,301.48,2024-03-02,West,ST1,1.0
+1017,zainab_ahmed,Smartphone,Electronics,1,430.52,2024-02-03,West,ST5,5.0
+1048,SADIA KHAN,Smartphone,Electronics,7,206.76,2024-05-29,South,ST4,1.0
+1165,OMAR BUTT,Toaster,Appliances,2,162.96,2024-01-13,EAST,ST1,4.0
+1120,asad_qureshi,Yoga Mat,Sportswear,2,431.74,,central,ST1,3.0
+1022,adeel_ahmed,Headphones,Electronics,7,6.07,2024-05-04,WEST,ST6,3.0
+1147,ayesha_siddiqui,Running Shoes,Sportswear,1,433.57,2024-04-22,South,ST6,4.0
+1195,Ali Raza,Microwave,Appliances,5,363.02,2024-03-29,North,ST4,5.0
+1131,  mahnoor khan  ,Pen Set,Stationery,2,324.78,2024-02-24,central,ST2,
+1209,omar_siddiqui,Blender,Appliances,8,269.16,2024-04-30,east ,ST1,3.0
+1074,fatima_butt,Running Shoes,Sportswear,5,290.24,2024-05-29,central,ST2,
+1031,Bilal Abbasi,Toaster,Appliances,7,282.65,2024-05-21,North ,ST5,2.0
+1163,  zainab qureshi  ,Yoga Mat,Sportswear,5,322.74,2024-06-25,east ,ST1,4.0
+1034,ZAINAB AHMED,Water Bottle,Accessories,7,402.11,2024-01-10, south ,ST4,2.0
+1162,ASAD AHMED,Laptop,Electronics,1,45.21,2024-06-07,Central ,ST4,4.0
+1188,Hassan Qureshi,Headphones,Electronics,7,414.36,2024-05-02,EAST,ST2,2.0
+1156,FATIMA SIDDIQUI,Running Shoes,Sportswear,3,357.35,2024-02-05, south ,ST2,4.0
+1202,  imran raza  ,Notebook,Stationery,6,290.85,2024-05-13,EAST,ST6,3.0
+1124,  maria siddiqui  ,Notebook,Stationery,8,342.16,2024-01-18,EAST,ST4,
+1089,ADEEL AHMED,Bookshelf,Furniture,8,,2024-03-29, south ,ST4,3.0
+1164,  bilal siddiqui  ,Blender,Appliances,8,234.9,2024-02-03,North ,ST4,5.0
+1101,  mahnoor abbasi  ,Microwave,Appliances,4,428.45,2024-03-11,North,ST4,1.0
+1150,mahnoor_iqbal,Sofa,Furniture,8,25.97,2024-01-15,central,ST6,
+1040,  maria iqbal  ,Blender,Appliances,7,340.27,2024-01-01,South,ST5,2.0
+1106,farhan_ahmed,Toaster,Appliances,4,472.98,2024-05-02,North,ST1,4.0
+1208,NIDA RAZA,Desk Chair,Furniture,4,481.23,2024-05-21,South,ST2,3.0
+1062,  rabia abbasi  ,Desk Chair,Furniture,5,333.66,2024-05-20,South,ST6,
+1036,Rabia Siddiqui,Water Bottle,Accessories,5,178.82,2024-02-15, south ,ST3,3.0
+1011,HINA QURESHI,Yoga Mat,Sportswear,5,385.46,2024-03-08,east ,ST1,
+1218,Imran Iqbal,Laptop,Electronics,3,45.93,2024-02-28,WEST,ST1,
+1072,  hina qureshi  ,Backpack,Accessories,5,222.38,2024-05-06,WEST,ST5,5.0
+1092,MAHNOOR RAZA,Microwave,Appliances,5,388.99,2024-06-22,Central ,ST3,
+1207,rabia_raza,Laptop,Electronics,2,98.14,2024-03-18,West,ST3,1.0
+1094,  usman sheikh  ,Yoga Mat,Sportswear,5,166.73,2024-03-10,WEST,ST5,3.0
+1160,  hina malik  ,Yoga Mat,Sportswear,4,176.28,2024-05-21,West,ST6,
+1119,  farhan abbasi  ,Headphones,Electronics,3,193.2,2024-01-11, south ,ST4,4.0
+1145,Fatima Sheikh,Running Shoes,Sportswear,8,490.51,2024-03-16,east ,ST1,
+1002,rabia_raza,Smartphone,Electronics,4,120.17,2024-05-30,West,ST4,
+1210,ASAD RAZA,Yoga Mat,Sportswear,4,188.5,2024-05-21,North,ST3,5.0
+1084,ali_sheikh,Running Shoes,Sportswear,8,54.36,2024-04-30,EAST,ST1,3.0
+1217,sara_malik,Desk Chair,Furniture,5,343.6,2024-05-21,South,ST4,
+1088,KAMRAN IQBAL,Headphones,Electronics,3,91.66,2024-02-06,east ,ST5,
+1138,AYESHA SIDDIQUI,Blender,Appliances,2,,2024-03-14,EAST,ST1,4.0
+1005,  sara raza  ,Yoga Mat,Sportswear,6,290.79,2024-01-26, south ,ST2,4.0
+1039,  hina qureshi  ,Running Shoes,Sportswear,2,361.28,2024-03-16,South,ST6,2.0
+1059,adeel_iqbal,Yoga Mat,Sportswear,2,143.07,2024-05-06,North ,ST1,2.0
+1035,Zainab Raza,Desk Chair,Furniture,8,178.08,2024-03-25,West,ST4,1.0
+1190,hina_sheikh,Sofa,Furniture,4,35.75,2024-03-20,WEST,ST6,
+1113,Zainab Qureshi,Sofa,Furniture,6,61.87,2024-06-26,Central ,ST6,2.0
+1182,Zainab Khan,Desk Chair,Furniture,1,336.57,2024-04-30,South,ST3,
+1184,HASSAN IQBAL,Sofa,Furniture,5,324.72,2024-01-10,WEST,ST6,2.0
+1153,Omar Raza,Notebook,Stationery,3,267.08,2024-02-17,North,ST6,4.0
+1057,nida_malik,Toaster,Appliances,6,11.26,2024-04-27,North ,ST6,4.0
+1070,Hina Butt,Microwave,Appliances,8,149.17,2024-06-09,West,ST3,
+1192,Usman Raza,Toaster,Appliances,8,379.89,2024-05-15,WEST,ST4,1.0
+1045,maria_abbasi,Microwave,Appliances,6,475.27,2024-02-10,WEST,ST4,4.0
+1189,  omar siddiqui  ,Laptop,Electronics,5,194.87,,Central ,ST6,
+1020,zainab_malik,Microwave,Appliances,3,213.83,2024-01-13,WEST,ST1,5.0
+1007,Sara Raza,Bookshelf,Furniture,4,343.88,2024-03-09,North ,ST4,5.0
+1056,Maria Malik,Desk Chair,Furniture,2,350.11,2024-04-19,North ,ST5,1.0
+1076,imran_malik,Blender,Appliances,1,230.14,2024-06-17,WEST,ST1,4.0
+1001,Zainab Sheikh,Pen Set,Stationery,2,17.38,2024-05-31,WEST,ST1,1.0
+1173,  nida iqbal  ,Notebook,Stationery,6,256.12,2024-04-04,east ,ST1,1.0
+1136,Ayesha Abbasi,Laptop,Electronics,8,437.69,2024-02-11,central,ST1,5.0
+1128,  kamran qureshi  ,Toaster,Appliances,3,185.13,2024-06-10,Central ,ST1,1.0
+1177,rabia_siddiqui,Backpack,Accessories,1,354.36,2024-03-21,WEST,ST4,4.0
+1069,HASSAN SHEIKH,Smartphone,Electronics,4,314.63,2024-01-20,EAST,ST5,4.0
+1168,Nida Ahmed,Bookshelf,Furniture,8,300.77,2024-02-04, south ,ST4,
+1137,Adeel Siddiqui,Headphones,Electronics,7,50.4,2024-04-11,South,ST1,2.0
+1043,asad_raza,Notebook,Stationery,2,230.43,2024-03-03,east ,ST4,
+1111,  rabia abbasi  ,Sofa,Furniture,3,280.4,2024-03-31, south ,ST4,
+1090,hina_raza,Pen Set,Stationery,7,346.71,2024-03-01,east ,ST1,3.0
+1073,ALI MALIK,Laptop,Electronics,7,368.59,2024-01-06,Central ,ST5,
+1024,Fatima Malik,Headphones,Electronics,1,480.59,2024-01-31,West,ST4,5.0
+1143,  kamran siddiqui  ,Toaster,Appliances,1,198.27,2024-01-18,North,ST3,
+1186,rabia_abbasi,Smartphone,Electronics,6,145.86,2024-04-29,EAST,ST5,
+1093,sara_ahmed,Pen Set,Stationery,3,315.98,2024-04-03,North,ST5,1.0
+1104,Ali Sheikh,Headphones,Electronics,5,400.26,2024-05-30,North ,ST2,2.0
+1152,SARA IQBAL,Desk Chair,Furniture,6,184.26,2024-04-05,east ,ST3,1.0
+1212,NIDA BUTT,Bookshelf,Furniture,8,483.42,2024-02-05,North ,ST2,4.0
+1068,adeel_ahmed,Notebook,Stationery,4,388.97,2024-06-07,central,ST5,
+1026,Adeel Siddiqui,Bookshelf,Furniture,7,69.78,2024-06-08,North,ST4,1.0
+1197,Kamran Qureshi,Yoga Mat,Sportswear,7,227.03,2024-06-16,WEST,ST2,1.0
+1176,sadia_raza,Desk Chair,Furniture,1,223.31,2024-04-30,WEST,ST5,

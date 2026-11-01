@@ -1,0 +1,214 @@
+order_id,customer_name,product,category,quantity,unit_price,order_date,region,store_id,rating,store_name,manager,city,total_amount,order_month,order_year,week_day,quarter,bucket
+1100,Nida Iqbal,Notebook,Stationery,3,443.28,2024-06-25,Central,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,1329.84,6,2024,Tuesday,2,high
+1047,Hassan Sheikh,Desk Chair,Furniture,5,171.24,2024-06-26,West,ST4,2.0,Lakeside Center,Hira Iqbal,Islamabad,856.2,6,2024,Wednesday,2,low
+1106,Farhan Ahmed,Toaster,Appliances,4,472.98,2024-05-02,North,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,1891.92,5,2024,Thursday,2,high
+1023,Imran Khan,Desk Chair,Furniture,1,291.69,2024-05-08,Central,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,291.69,5,2024,Wednesday,2,high
+1079,Bilal Butt,Desk Chair,Furniture,2,233.42,2024-03-10,West,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,466.84,3,2024,Sunday,1,high
+1123,Usman Sheikh,Sofa,Furniture,3,121.95,2024-06-09,South,ST2,3.0,Riverside Mall,Sana Malik,Lahore,365.85,6,2024,Sunday,2,mid
+1126,Adeel Iqbal,Smartphone,Electronics,2,309.43,2024-06-15,East,ST5,5.0,Old Town Market,Tariq Butt,Multan,618.86,6,2024,Saturday,2,high
+1171,Farhan Qureshi,Toaster,Appliances,6,378.71,2024-02-05,North,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,2272.2599999999998,2,2024,Monday,1,mid
+1025,Asad Iqbal,Desk Chair,Furniture,1,311.59,2024-06-20,Central,ST2,2.0,Riverside Mall,Sana Malik,Lahore,311.59,6,2024,Thursday,2,low
+1114,Fatima Sheikh,Bookshelf,Furniture,5,461.16,2024-06-11,South,ST2,1.0,Riverside Mall,Sana Malik,Lahore,2305.8,6,2024,Tuesday,2,low
+1012,Farhan Iqbal,Headphones,Electronics,2,435.91,2024-02-11,East,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,871.82,2,2024,Sunday,1,mid
+1216,Kamran Malik,Desk Chair,Furniture,5,408.53,2024-05-24,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2042.6499999999999,5,2024,Friday,2,mid
+1075,Imran Malik,Microwave,Appliances,2,237.66,2024-06-26,North,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,475.32,6,2024,Wednesday,2,mid
+1181,Rabia Ahmed,Pen Set,Stationery,5,374.93,2024-06-06,East,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,1874.65,6,2024,Thursday,2,low
+1003,Bilal Raza,Laptop,Electronics,3,350.58,2024-04-07,South,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,1051.74,4,2024,Sunday,2,mid
+1103,Zainab Siddiqui,Smartphone,Electronics,4,295.26,2024-03-11,Central,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,1181.04,3,2024,Monday,1,low
+1211,Zainab Qureshi,Backpack,Accessories,7,151.12,2024-06-16,East,ST5,3.0,Old Town Market,Tariq Butt,Multan,1057.8400000000001,6,2024,Sunday,2,mid
+1110,Nida Malik,Pen Set,Stationery,5,190.28,2024-04-20,South,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,951.4,4,2024,Saturday,2,mid
+1091,Kamran Ahmed,Notebook,Stationery,5,496.38,2024-01-13,Central,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,2481.9,1,2024,Saturday,1,mid
+1185,Kamran Butt,Blender,Appliances,3,467.29,2024-01-03,Central,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,1401.8700000000001,1,2024,Wednesday,1,high
+1169,Asad Abbasi,Sofa,Furniture,7,186.14,2024-03-14,North,ST5,5.0,Old Town Market,Tariq Butt,Multan,1302.98,3,2024,Thursday,1,high
+1109,Sadia Siddiqui,Yoga Mat,Sportswear,4,217.88,2024-01-25,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,871.52,1,2024,Thursday,1,mid
+1085,Rabia Qureshi,Sofa,Furniture,7,326.67,2024-01-10,East,ST5,2.0,Old Town Market,Tariq Butt,Multan,2286.69,1,2024,Wednesday,1,low
+1058,Nida Butt,Headphones,Electronics,5,309.88,2024-03-23,Central,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,1549.4,3,2024,Saturday,1,mid
+1117,Asad Butt,Desk Chair,Furniture,2,175.86,2024-04-11,North,ST2,1.0,Riverside Mall,Sana Malik,Lahore,351.72,4,2024,Thursday,2,low
+1213,Hassan Khan,Headphones,Electronics,1,264.35,2024-06-10,South,ST2,3.0,Riverside Mall,Sana Malik,Lahore,264.35,6,2024,Monday,2,mid
+1183,Fatima Qureshi,Headphones,Electronics,1,482.44,2024-02-21,East,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,482.44,2,2024,Wednesday,1,mid
+1102,Maria Khan,Running Shoes,Sportswear,8,50.38,2024-02-02,North,ST2,2.0,Riverside Mall,Sana Malik,Lahore,403.04,2,2024,Friday,1,low
+1157,Rabia Sheikh,Laptop,Electronics,6,279.24,2024-04-11,South,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,1675.44,4,2024,Thursday,2,mid
+1206,Mahnoor Malik,Desk Chair,Furniture,6,325.12,2024-04-06,North,ST3,5.0,Uptown Plaza,Bilal Sheikh,Karachi,1950.72,4,2024,Saturday,2,high
+1086,Sadia Malik,Pen Set,Stationery,5,498.73,2024-06-26,East,ST2,1.0,Riverside Mall,Sana Malik,Lahore,2493.65,6,2024,Wednesday,2,low
+1159,Farhan Khan,Headphones,Electronics,3,385.05,2024-03-18,West,ST2,3.0,Riverside Mall,Sana Malik,Lahore,1155.15,3,2024,Monday,1,mid
+1140,Hina Malik,Backpack,Accessories,7,60.04,2024-06-12,West,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,420.28,6,2024,Wednesday,2,high
+1066,Fatima Khan,Notebook,Stationery,5,237.35,2024-01-17,East,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,1186.75,1,2024,Wednesday,1,low
+1142,Farhan Siddiqui,Desk Chair,Furniture,7,97.72,2024-05-09,West,ST5,5.0,Old Town Market,Tariq Butt,Multan,684.04,5,2024,Thursday,2,high
+1154,Adeel Raza,Yoga Mat,Sportswear,2,134.58,2024-02-01,East,ST2,1.0,Riverside Mall,Sana Malik,Lahore,269.16,2,2024,Thursday,1,low
+1194,Sara Butt,Desk Chair,Furniture,8,50.02,2024-04-26,West,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,400.16,4,2024,Friday,2,high
+1083,Bilal Butt,Backpack,Accessories,7,196.11,2024-05-31,East,ST5,1.0,Old Town Market,Tariq Butt,Multan,1372.77,5,2024,Friday,2,low
+1061,Nida Butt,Desk Chair,Furniture,7,246.85,2024-03-16,North,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,1727.95,3,2024,Saturday,1,mid
+1133,Fatima Iqbal,Yoga Mat,Sportswear,3,300.64,2024-04-15,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,901.92,4,2024,Monday,2,mid
+1010,Maria Butt,Water Bottle,Accessories,7,300.22,2024-06-23,West,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,2101.54,6,2024,Sunday,2,mid
+1019,Ayesha Khan,Microwave,Appliances,1,338.32,2024-03-04,North,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,338.32,3,2024,Monday,1,high
+1115,Fatima Siddiqui,Backpack,Accessories,4,191.22,2024-06-01,North,ST5,1.0,Old Town Market,Tariq Butt,Multan,764.88,6,2024,Saturday,2,low
+1081,Hina Iqbal,Toaster,Appliances,5,411.17,2024-05-17,East,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2055.85,5,2024,Friday,2,mid
+1096,Mahnoor Malik,Pen Set,Stationery,7,483.8,2024-05-17,North,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,3386.6,5,2024,Friday,2,mid
+1067,Hina Malik,Notebook,Stationery,1,80.1,2024-04-16,South,ST5,3.0,Old Town Market,Tariq Butt,Multan,80.1,4,2024,Tuesday,2,mid
+1214,Sara Iqbal,Headphones,Electronics,1,113.27,2024-01-02,East,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,113.27,1,2024,Tuesday,1,high
+1219,Omar Abbasi,Backpack,Accessories,8,139.19,2024-01-05,East,ST3,5.0,Uptown Plaza,Bilal Sheikh,Karachi,1113.52,1,2024,Friday,1,high
+1099,Bilal Qureshi,Microwave,Appliances,2,53.11,2024-06-27,North,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,106.22,6,2024,Thursday,2,high
+1015,Usman Ahmed,Notebook,Stationery,7,482.36,2024-05-12,North,ST4,2.0,Lakeside Center,Hira Iqbal,Islamabad,3376.52,5,2024,Sunday,2,low
+1028,Farhan Khan,Backpack,Accessories,5,307.78,2024-03-08,South,ST2,1.0,Riverside Mall,Sana Malik,Lahore,1538.8999999999999,3,2024,Friday,1,low
+1105,Ayesha Malik,Bookshelf,Furniture,1,67.75,2024-05-11,East,ST3,4.0,Uptown Plaza,Bilal Sheikh,Karachi,67.75,5,2024,Saturday,2,high
+1041,Usman Abbasi,Blender,Appliances,6,235.17,2024-01-22,East,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,1411.02,1,2024,Monday,1,mid
+1046,Omar Abbasi,Microwave,Appliances,5,377.13,2024-04-22,West,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,1885.65,4,2024,Monday,2,mid
+1158,Hassan Sheikh,Microwave,Appliances,7,385.74,2024-04-29,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2700.1800000000003,4,2024,Monday,2,mid
+1032,Sara Siddiqui,Laptop,Electronics,5,185.5,2024-01-27,West,ST6,5.0,Metro Square,Mahnoor Qureshi,Peshawar,927.5,1,2024,Saturday,1,high
+1174,Ali Iqbal,Blender,Appliances,5,399.39,2024-05-28,Central,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,1996.9499999999998,5,2024,Tuesday,2,mid
+1170,Maria Malik,Microwave,Appliances,5,413.53,2024-04-05,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2067.6499999999996,4,2024,Friday,2,mid
+1033,Zainab Sheikh,Yoga Mat,Sportswear,7,487.05,2024-02-15,South,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,3409.35,2,2024,Thursday,1,mid
+1014,Rabia Sheikh,Smartphone,Electronics,8,408.93,2024-02-12,East,ST5,3.0,Old Town Market,Tariq Butt,Multan,3271.44,2,2024,Monday,1,mid
+1134,Adeel Raza,Desk Chair,Furniture,8,307.24,2024-02-19,Central,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,2457.92,2,2024,Monday,1,high
+1139,Maria Khan,Backpack,Accessories,3,380.63,2024-02-25,North,ST3,5.0,Uptown Plaza,Bilal Sheikh,Karachi,1141.8899999999999,2,2024,Sunday,1,high
+1146,Kamran Abbasi,Desk Chair,Furniture,1,161.22,2024-06-14,Central,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,161.22,6,2024,Friday,2,mid
+1029,Imran Raza,Backpack,Accessories,3,139.81,2024-03-05,West,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,419.43,3,2024,Tuesday,1,mid
+1064,Farhan Iqbal,Microwave,Appliances,5,363.67,2024-03-16,South,ST2,2.0,Riverside Mall,Sana Malik,Lahore,1818.3500000000001,3,2024,Saturday,1,low
+1095,Imran Malik,Yoga Mat,Sportswear,8,483.86,2024-02-27,South,ST2,3.0,Riverside Mall,Sana Malik,Lahore,3870.88,2,2024,Tuesday,1,mid
+1129,Omar Iqbal,Sofa,Furniture,2,281.19,2024-05-29,North,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,562.38,5,2024,Wednesday,2,mid
+1016,Zainab Iqbal,Desk Chair,Furniture,2,172.35,2024-06-30,North,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,344.7,6,2024,Sunday,2,low
+1035,Zainab Raza,Desk Chair,Furniture,8,178.08,2024-03-25,West,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,1424.64,3,2024,Monday,1,low
+1059,Adeel Iqbal,Yoga Mat,Sportswear,2,143.07,2024-05-06,North,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,286.14,5,2024,Monday,2,low
+1175,Maria Qureshi,Laptop,Electronics,8,89.4,2024-05-26,West,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,715.2,5,2024,Sunday,2,low
+1037,Imran Qureshi,Laptop,Electronics,2,300.3,2024-02-18,South,ST5,3.0,Old Town Market,Tariq Butt,Multan,600.6,2,2024,Sunday,1,mid
+1098,Adeel Ahmed,Sofa,Furniture,4,325.59,2024-01-12,South,ST2,3.0,Riverside Mall,Sana Malik,Lahore,1302.36,1,2024,Friday,1,mid
+1204,Hina Qureshi,Toaster,Appliances,6,349.67,2024-03-02,West,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2098.02,3,2024,Saturday,1,mid
+1161,Asad Sheikh,Bookshelf,Furniture,2,253.77,2024-06-03,Central,ST6,5.0,Metro Square,Mahnoor Qureshi,Peshawar,507.54,6,2024,Monday,2,high
+1097,Mahnoor Malik,Pen Set,Stationery,5,294.36,2024-06-07,East,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,1471.8000000000002,6,2024,Friday,2,high
+1205,Rabia Qureshi,Running Shoes,Sportswear,3,403.86,2024-02-04,West,ST5,3.0,Old Town Market,Tariq Butt,Multan,1211.58,2,2024,Sunday,1,mid
+1127,Imran Malik,Microwave,Appliances,3,479.07,2024-06-30,North,ST2,4.0,Riverside Mall,Sana Malik,Lahore,1437.21,6,2024,Sunday,2,high
+1193,Farhan Raza,Yoga Mat,Sportswear,2,35.57,2024-05-13,East,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,71.14,5,2024,Monday,2,mid
+1155,Hassan Siddiqui,Microwave,Appliances,3,449.85,2024-05-18,South,ST5,3.0,Old Town Market,Tariq Butt,Multan,1349.5500000000002,5,2024,Saturday,2,mid
+1038,Usman Siddiqui,Blender,Appliances,1,262.36,2024-03-25,South,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,262.36,3,2024,Monday,1,mid
+1089,Adeel Ahmed,Bookshelf,Furniture,8,282.65,2024-03-29,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2261.2,3,2024,Friday,1,mid
+1149,Hina Ahmed,Headphones,Electronics,5,164.0,2024-04-19,Central,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,820.0,4,2024,Friday,2,high
+1116,Hassan Ahmed,Headphones,Electronics,3,378.45,2024-06-04,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,1135.35,6,2024,Tuesday,2,mid
+1050,Kamran Siddiqui,Microwave,Appliances,4,140.1,2024-02-02,East,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,560.4,2,2024,Friday,1,high
+1180,Mahnoor Sheikh,Pen Set,Stationery,7,448.4,2024-01-21,North,ST3,4.0,Uptown Plaza,Bilal Sheikh,Karachi,3138.7999999999997,1,2024,Sunday,1,high
+1006,Omar Malik,Pen Set,Stationery,6,85.51,2024-03-03,West,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,513.0600000000001,3,2024,Sunday,1,high
+1018,Sadia Raza,Notebook,Stationery,8,125.28,2024-04-20,South,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,1002.24,4,2024,Saturday,2,high
+1144,Imran Sheikh,Pen Set,Stationery,2,386.89,2024-03-27,North,ST5,2.0,Old Town Market,Tariq Butt,Multan,773.78,3,2024,Wednesday,1,low
+1135,Farhan Abbasi,Microwave,Appliances,8,385.87,2024-06-03,East,ST2,3.0,Riverside Mall,Sana Malik,Lahore,3086.96,6,2024,Monday,2,mid
+1191,Bilal Butt,Yoga Mat,Sportswear,5,186.93,2024-06-04,East,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,934.6500000000001,6,2024,Tuesday,2,mid
+1203,Fatima Qureshi,Bookshelf,Furniture,1,280.58,2024-06-13,North,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,280.58,6,2024,Thursday,2,mid
+1121,Hassan Qureshi,Headphones,Electronics,8,416.85,2024-05-30,West,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,3334.8,5,2024,Thursday,2,low
+1087,Mahnoor Qureshi,Laptop,Electronics,6,399.09,2024-04-15,West,ST5,3.0,Old Town Market,Tariq Butt,Multan,2394.54,4,2024,Monday,2,mid
+1063,Usman Siddiqui,Microwave,Appliances,5,156.78,2024-02-17,West,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,783.9,2,2024,Saturday,1,mid
+1065,Sara Khan,Bookshelf,Furniture,1,355.47,2024-05-05,East,ST6,1.0,Metro Square,Mahnoor Qureshi,Peshawar,355.47,5,2024,Sunday,2,low
+1027,Mahnoor Malik,Smartphone,Electronics,4,255.41,2024-02-10,North,ST3,5.0,Uptown Plaza,Bilal Sheikh,Karachi,1021.64,2,2024,Saturday,1,high
+1118,Bilal Ahmed,Laptop,Electronics,4,154.2,2024-01-02,North,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,616.8,1,2024,Tuesday,1,high
+1042,Zainab Ahmed,Pen Set,Stationery,6,51.23,2024-01-07,West,ST2,4.0,Riverside Mall,Sana Malik,Lahore,307.38,1,2024,Sunday,1,high
+1053,Sara Khan,Laptop,Electronics,6,115.99,2024-06-08,West,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,695.9399999999999,6,2024,Saturday,2,low
+1166,Fatima Siddiqui,Running Shoes,Sportswear,7,127.89,2024-05-07,West,ST2,4.0,Riverside Mall,Sana Malik,Lahore,895.23,5,2024,Tuesday,2,high
+1198,Zainab Khan,Headphones,Electronics,7,266.78,2024-06-21,Central,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,1867.4599999999998,6,2024,Friday,2,high
+1107,Hassan Malik,Pen Set,Stationery,2,247.68,2024-01-17,Central,ST2,5.0,Riverside Mall,Sana Malik,Lahore,495.36,1,2024,Wednesday,1,high
+1082,Usman Raza,Toaster,Appliances,7,230.4,2024-01-12,West,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,1612.8,1,2024,Friday,1,high
+1008,Adeel Sheikh,Yoga Mat,Sportswear,6,110.25,2024-05-23,East,ST2,3.0,Riverside Mall,Sana Malik,Lahore,661.5,5,2024,Thursday,2,mid
+1092,Mahnoor Raza,Microwave,Appliances,5,388.99,2024-06-22,Central,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,1944.95,6,2024,Saturday,2,mid
+1200,Maria Khan,Blender,Appliances,1,124.13,2024-06-29,Central,ST6,2.0,Metro Square,Mahnoor Qureshi,Peshawar,124.13,6,2024,Saturday,2,low
+1167,Kamran Abbasi,Microwave,Appliances,5,251.2,2024-05-29,West,ST2,1.0,Riverside Mall,Sana Malik,Lahore,1256.0,5,2024,Wednesday,2,low
+1071,Bilal Ahmed,Yoga Mat,Sportswear,4,215.44,2024-02-12,South,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,861.76,2,2024,Monday,1,high
+1201,Usman Khan,Backpack,Accessories,1,204.12,2024-02-29,West,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,204.12,2,2024,Thursday,1,mid
+1130,Hassan Ahmed,Bookshelf,Furniture,7,68.83,2024-06-20,North,ST2,3.0,Riverside Mall,Sana Malik,Lahore,481.81,6,2024,Thursday,2,mid
+1009,Zainab Sheikh,Notebook,Stationery,7,449.42,2024-01-29,South,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,3145.94,1,2024,Monday,1,low
+1122,Fatima Malik,Blender,Appliances,5,374.17,2024-02-19,West,ST5,3.0,Old Town Market,Tariq Butt,Multan,1870.8500000000001,2,2024,Monday,1,mid
+1080,Usman Iqbal,Microwave,Appliances,4,231.11,2024-04-16,South,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,924.44,4,2024,Tuesday,2,mid
+1030,Sara Khan,Laptop,Electronics,2,318.97,2024-03-08,East,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,637.94,3,2024,Friday,1,high
+1004,Rabia Malik,Sofa,Furniture,5,404.53,2024-03-16,South,ST5,5.0,Old Town Market,Tariq Butt,Multan,2022.6499999999999,3,2024,Saturday,1,high
+1040,Maria Iqbal,Blender,Appliances,7,340.27,2024-01-01,South,ST5,2.0,Old Town Market,Tariq Butt,Multan,2381.89,1,2024,Monday,1,low
+1051,Hassan Qureshi,Laptop,Electronics,7,297.99,2024-01-13,East,ST2,3.0,Riverside Mall,Sana Malik,Lahore,2085.9300000000003,1,2024,Saturday,1,mid
+1078,Maria Raza,Microwave,Appliances,8,65.11,2024-01-04,Central,ST5,1.0,Old Town Market,Tariq Butt,Multan,520.88,1,2024,Thursday,1,low
+1220,Asad Raza,Headphones,Electronics,7,464.79,2024-04-08,West,ST3,2.0,Uptown Plaza,Bilal Sheikh,Karachi,3253.53,4,2024,Monday,2,low
+1112,Mahnoor Malik,Blender,Appliances,1,484.36,2024-05-03,East,ST6,1.0,Metro Square,Mahnoor Qureshi,Peshawar,484.36,5,2024,Friday,2,low
+1196,Hina Qureshi,Laptop,Electronics,2,493.14,2024-06-14,East,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,986.28,6,2024,Friday,2,mid
+1055,Asad Qureshi,Bookshelf,Furniture,2,291.45,2024-05-31,West,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,582.9,5,2024,Friday,2,mid
+1044,Farhan Butt,Laptop,Electronics,2,390.32,2024-02-01,West,ST2,3.0,Riverside Mall,Sana Malik,Lahore,780.64,2,2024,Thursday,1,mid
+1179,Nida Siddiqui,Bookshelf,Furniture,5,353.93,2024-03-11,North,ST5,5.0,Old Town Market,Tariq Butt,Multan,1769.65,3,2024,Monday,1,high
+1049,Hina Qureshi,Running Shoes,Sportswear,7,241.1,2024-05-19,West,ST6,2.0,Metro Square,Mahnoor Qureshi,Peshawar,1687.7,5,2024,Sunday,2,low
+1172,Bilal Siddiqui,Microwave,Appliances,8,78.73,2024-06-06,East,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,629.84,6,2024,Thursday,2,mid
+1060,Omar Iqbal,Microwave,Appliances,4,180.64,2024-05-12,West,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,722.56,5,2024,Sunday,2,low
+1054,Omar Siddiqui,Microwave,Appliances,2,284.16,2024-01-30,Central,ST5,2.0,Old Town Market,Tariq Butt,Multan,568.32,1,2024,Tuesday,1,low
+1021,Zainab Sheikh,Running Shoes,Sportswear,1,484.65,2024-02-24,East,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,484.65,2,2024,Saturday,1,low
+1125,Hassan Ahmed,Bookshelf,Furniture,5,297.75,2024-01-15,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,1488.75,1,2024,Monday,1,mid
+1215,Hina Khan,Laptop,Electronics,1,267.06,2024-01-25,East,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,267.06,1,2024,Thursday,1,low
+1148,Farhan Ahmed,Sofa,Furniture,3,250.62,2024-04-20,South,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,751.86,4,2024,Saturday,2,mid
+1077,Nida Butt,Blender,Appliances,1,97.85,2024-05-20,West,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,97.85,5,2024,Monday,2,mid
+1187,Omar Sheikh,Smartphone,Electronics,6,85.43,2024-05-25,North,ST3,2.0,Uptown Plaza,Bilal Sheikh,Karachi,512.58,5,2024,Saturday,2,low
+1108,Hina Butt,Pen Set,Stationery,6,193.55,2024-01-30,South,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,1161.3000000000002,1,2024,Tuesday,1,mid
+1178,Omar Iqbal,Yoga Mat,Sportswear,6,275.41,2024-03-12,West,ST2,2.0,Riverside Mall,Sana Malik,Lahore,1652.46,3,2024,Tuesday,1,low
+1013,Ayesha Siddiqui,Yoga Mat,Sportswear,1,301.48,2024-03-02,West,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,301.48,3,2024,Saturday,1,low
+1017,Zainab Ahmed,Smartphone,Electronics,1,430.52,2024-02-03,West,ST5,5.0,Old Town Market,Tariq Butt,Multan,430.52,2,2024,Saturday,1,high
+1048,Sadia Khan,Smartphone,Electronics,7,206.76,2024-05-29,South,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,1447.32,5,2024,Wednesday,2,low
+1165,Omar Butt,Toaster,Appliances,2,162.96,2024-01-13,East,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,325.92,1,2024,Saturday,1,high
+1022,Adeel Ahmed,Headphones,Electronics,7,6.07,2024-05-04,West,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,42.49,5,2024,Saturday,2,mid
+1147,Ayesha Siddiqui,Running Shoes,Sportswear,1,433.57,2024-04-22,South,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,433.57,4,2024,Monday,2,high
+1195,Ali Raza,Microwave,Appliances,5,363.02,2024-03-29,North,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,1815.1,3,2024,Friday,1,high
+1131,Mahnoor Khan,Pen Set,Stationery,2,324.78,2024-02-24,Central,ST2,3.0,Riverside Mall,Sana Malik,Lahore,649.56,2,2024,Saturday,1,mid
+1209,Omar Siddiqui,Blender,Appliances,8,269.16,2024-04-30,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,2153.28,4,2024,Tuesday,2,mid
+1074,Fatima Butt,Running Shoes,Sportswear,5,290.24,2024-05-29,Central,ST2,3.0,Riverside Mall,Sana Malik,Lahore,1451.2,5,2024,Wednesday,2,mid
+1031,Bilal Abbasi,Toaster,Appliances,7,282.65,2024-05-21,North,ST5,2.0,Old Town Market,Tariq Butt,Multan,1978.5499999999997,5,2024,Tuesday,2,low
+1163,Zainab Qureshi,Yoga Mat,Sportswear,5,322.74,2024-06-25,East,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,1613.7,6,2024,Tuesday,2,high
+1034,Zainab Ahmed,Water Bottle,Accessories,7,402.11,2024-01-10,South,ST4,2.0,Lakeside Center,Hira Iqbal,Islamabad,2814.77,1,2024,Wednesday,1,low
+1162,Asad Ahmed,Laptop,Electronics,1,45.21,2024-06-07,Central,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,45.21,6,2024,Friday,2,high
+1188,Hassan Qureshi,Headphones,Electronics,7,414.36,2024-05-02,East,ST2,2.0,Riverside Mall,Sana Malik,Lahore,2900.52,5,2024,Thursday,2,low
+1156,Fatima Siddiqui,Running Shoes,Sportswear,3,357.35,2024-02-05,South,ST2,4.0,Riverside Mall,Sana Malik,Lahore,1072.0500000000002,2,2024,Monday,1,high
+1202,Imran Raza,Notebook,Stationery,6,290.85,2024-05-13,East,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,1745.1000000000001,5,2024,Monday,2,mid
+1124,Maria Siddiqui,Notebook,Stationery,8,342.16,2024-01-18,East,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2737.28,1,2024,Thursday,1,mid
+1164,Bilal Siddiqui,Blender,Appliances,8,234.9,2024-02-03,North,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,1879.2,2,2024,Saturday,1,high
+1101,Mahnoor Abbasi,Microwave,Appliances,4,428.45,2024-03-11,North,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,1713.8,3,2024,Monday,1,low
+1150,Mahnoor Iqbal,Sofa,Furniture,8,25.97,2024-01-15,Central,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,207.76,1,2024,Monday,1,mid
+1208,Nida Raza,Desk Chair,Furniture,4,481.23,2024-05-21,South,ST2,3.0,Riverside Mall,Sana Malik,Lahore,1924.92,5,2024,Tuesday,2,mid
+1062,Rabia Abbasi,Desk Chair,Furniture,5,333.66,2024-05-20,South,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,1668.3000000000002,5,2024,Monday,2,mid
+1036,Rabia Siddiqui,Water Bottle,Accessories,5,178.82,2024-02-15,South,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,894.0999999999999,2,2024,Thursday,1,mid
+1011,Hina Qureshi,Yoga Mat,Sportswear,5,385.46,2024-03-08,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,1927.3,3,2024,Friday,1,mid
+1218,Imran Iqbal,Laptop,Electronics,3,45.93,2024-02-28,West,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,137.79,2,2024,Wednesday,1,mid
+1072,Hina Qureshi,Backpack,Accessories,5,222.38,2024-05-06,West,ST5,5.0,Old Town Market,Tariq Butt,Multan,1111.9,5,2024,Monday,2,high
+1207,Rabia Raza,Laptop,Electronics,2,98.14,2024-03-18,West,ST3,1.0,Uptown Plaza,Bilal Sheikh,Karachi,196.28,3,2024,Monday,1,low
+1094,Usman Sheikh,Yoga Mat,Sportswear,5,166.73,2024-03-10,West,ST5,3.0,Old Town Market,Tariq Butt,Multan,833.65,3,2024,Sunday,1,mid
+1160,Hina Malik,Yoga Mat,Sportswear,4,176.28,2024-05-21,West,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,705.12,5,2024,Tuesday,2,mid
+1119,Farhan Abbasi,Headphones,Electronics,3,193.2,2024-01-11,South,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,579.5999999999999,1,2024,Thursday,1,high
+1145,Fatima Sheikh,Running Shoes,Sportswear,8,490.51,2024-03-16,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,3924.08,3,2024,Saturday,1,mid
+1002,Rabia Raza,Smartphone,Electronics,4,120.17,2024-05-30,West,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,480.68,5,2024,Thursday,2,mid
+1210,Asad Raza,Yoga Mat,Sportswear,4,188.5,2024-05-21,North,ST3,5.0,Uptown Plaza,Bilal Sheikh,Karachi,754.0,5,2024,Tuesday,2,high
+1084,Ali Sheikh,Running Shoes,Sportswear,8,54.36,2024-04-30,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,434.88,4,2024,Tuesday,2,mid
+1217,Sara Malik,Desk Chair,Furniture,5,343.6,2024-05-21,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,1718.0,5,2024,Tuesday,2,mid
+1088,Kamran Iqbal,Headphones,Electronics,3,91.66,2024-02-06,East,ST5,3.0,Old Town Market,Tariq Butt,Multan,274.98,2,2024,Tuesday,1,mid
+1138,Ayesha Siddiqui,Blender,Appliances,2,282.65,2024-03-14,East,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,565.3,3,2024,Thursday,1,high
+1005,Sara Raza,Yoga Mat,Sportswear,6,290.79,2024-01-26,South,ST2,4.0,Riverside Mall,Sana Malik,Lahore,1744.7400000000002,1,2024,Friday,1,high
+1039,Hina Qureshi,Running Shoes,Sportswear,2,361.28,2024-03-16,South,ST6,2.0,Metro Square,Mahnoor Qureshi,Peshawar,722.56,3,2024,Saturday,1,low
+1190,Hina Sheikh,Sofa,Furniture,4,35.75,2024-03-20,West,ST6,3.0,Metro Square,Mahnoor Qureshi,Peshawar,143.0,3,2024,Wednesday,1,mid
+1113,Zainab Qureshi,Sofa,Furniture,6,61.87,2024-06-26,Central,ST6,2.0,Metro Square,Mahnoor Qureshi,Peshawar,371.21999999999997,6,2024,Wednesday,2,low
+1182,Zainab Khan,Desk Chair,Furniture,1,336.57,2024-04-30,South,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,336.57,4,2024,Tuesday,2,mid
+1184,Hassan Iqbal,Sofa,Furniture,5,324.72,2024-01-10,West,ST6,2.0,Metro Square,Mahnoor Qureshi,Peshawar,1623.6000000000001,1,2024,Wednesday,1,low
+1153,Omar Raza,Notebook,Stationery,3,267.08,2024-02-17,North,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,801.24,2,2024,Saturday,1,high
+1057,Nida Malik,Toaster,Appliances,6,11.26,2024-04-27,North,ST6,4.0,Metro Square,Mahnoor Qureshi,Peshawar,67.56,4,2024,Saturday,2,high
+1070,Hina Butt,Microwave,Appliances,8,149.17,2024-06-09,West,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,1193.36,6,2024,Sunday,2,mid
+1192,Usman Raza,Toaster,Appliances,8,379.89,2024-05-15,West,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,3039.12,5,2024,Wednesday,2,low
+1045,Maria Abbasi,Microwave,Appliances,6,475.27,2024-02-10,West,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,2851.62,2,2024,Saturday,1,high
+1020,Zainab Malik,Microwave,Appliances,3,213.83,2024-01-13,West,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,641.49,1,2024,Saturday,1,high
+1007,Sara Raza,Bookshelf,Furniture,4,343.88,2024-03-09,North,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,1375.52,3,2024,Saturday,1,high
+1056,Maria Malik,Desk Chair,Furniture,2,350.11,2024-04-19,North,ST5,1.0,Old Town Market,Tariq Butt,Multan,700.22,4,2024,Friday,2,low
+1076,Imran Malik,Blender,Appliances,1,230.14,2024-06-17,West,ST1,4.0,Downtown Hub,Ahmed Raza,Rawalpindi,230.14,6,2024,Monday,2,high
+1001,Zainab Sheikh,Pen Set,Stationery,2,17.38,2024-05-31,West,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,34.76,5,2024,Friday,2,low
+1173,Nida Iqbal,Notebook,Stationery,6,256.12,2024-04-04,East,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,1536.72,4,2024,Thursday,2,low
+1136,Ayesha Abbasi,Laptop,Electronics,8,437.69,2024-02-11,Central,ST1,5.0,Downtown Hub,Ahmed Raza,Rawalpindi,3501.52,2,2024,Sunday,1,high
+1128,Kamran Qureshi,Toaster,Appliances,3,185.13,2024-06-10,Central,ST1,1.0,Downtown Hub,Ahmed Raza,Rawalpindi,555.39,6,2024,Monday,2,low
+1177,Rabia Siddiqui,Backpack,Accessories,1,354.36,2024-03-21,West,ST4,4.0,Lakeside Center,Hira Iqbal,Islamabad,354.36,3,2024,Thursday,1,high
+1069,Hassan Sheikh,Smartphone,Electronics,4,314.63,2024-01-20,East,ST5,4.0,Old Town Market,Tariq Butt,Multan,1258.52,1,2024,Saturday,1,high
+1168,Nida Ahmed,Bookshelf,Furniture,8,300.77,2024-02-04,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,2406.16,2,2024,Sunday,1,mid
+1137,Adeel Siddiqui,Headphones,Electronics,7,50.4,2024-04-11,South,ST1,2.0,Downtown Hub,Ahmed Raza,Rawalpindi,352.8,4,2024,Thursday,2,low
+1043,Asad Raza,Notebook,Stationery,2,230.43,2024-03-03,East,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,460.86,3,2024,Sunday,1,mid
+1111,Rabia Abbasi,Sofa,Furniture,3,280.4,2024-03-31,South,ST4,3.0,Lakeside Center,Hira Iqbal,Islamabad,841.1999999999999,3,2024,Sunday,1,mid
+1090,Hina Raza,Pen Set,Stationery,7,346.71,2024-03-01,East,ST1,3.0,Downtown Hub,Ahmed Raza,Rawalpindi,2426.97,3,2024,Friday,1,mid
+1073,Ali Malik,Laptop,Electronics,7,368.59,2024-01-06,Central,ST5,3.0,Old Town Market,Tariq Butt,Multan,2580.1299999999997,1,2024,Saturday,1,mid
+1024,Fatima Malik,Headphones,Electronics,1,480.59,2024-01-31,West,ST4,5.0,Lakeside Center,Hira Iqbal,Islamabad,480.59,1,2024,Wednesday,1,high
+1143,Kamran Siddiqui,Toaster,Appliances,1,198.27,2024-01-18,North,ST3,3.0,Uptown Plaza,Bilal Sheikh,Karachi,198.27,1,2024,Thursday,1,mid
+1186,Rabia Abbasi,Smartphone,Electronics,6,145.86,2024-04-29,East,ST5,3.0,Old Town Market,Tariq Butt,Multan,875.1600000000001,4,2024,Monday,2,mid
+1093,Sara Ahmed,Pen Set,Stationery,3,315.98,2024-04-03,North,ST5,1.0,Old Town Market,Tariq Butt,Multan,947.94,4,2024,Wednesday,2,low
+1104,Ali Sheikh,Headphones,Electronics,5,400.26,2024-05-30,North,ST2,2.0,Riverside Mall,Sana Malik,Lahore,2001.3,5,2024,Thursday,2,low
+1152,Sara Iqbal,Desk Chair,Furniture,6,184.26,2024-04-05,East,ST3,1.0,Uptown Plaza,Bilal Sheikh,Karachi,1105.56,4,2024,Friday,2,low
+1212,Nida Butt,Bookshelf,Furniture,8,483.42,2024-02-05,North,ST2,4.0,Riverside Mall,Sana Malik,Lahore,3867.36,2,2024,Monday,1,high
+1068,Adeel Ahmed,Notebook,Stationery,4,388.97,2024-06-07,Central,ST5,3.0,Old Town Market,Tariq Butt,Multan,1555.88,6,2024,Friday,2,mid
+1026,Adeel Siddiqui,Bookshelf,Furniture,7,69.78,2024-06-08,North,ST4,1.0,Lakeside Center,Hira Iqbal,Islamabad,488.46000000000004,6,2024,Saturday,2,low
+1197,Kamran Qureshi,Yoga Mat,Sportswear,7,227.03,2024-06-16,West,ST2,1.0,Riverside Mall,Sana Malik,Lahore,1589.21,6,2024,Sunday,2,low
+1176,Sadia Raza,Desk Chair,Furniture,1,223.31,2024-04-30,West,ST5,3.0,Old Town Market,Tariq Butt,Multan,223.31,4,2024,Tuesday,2,mid
