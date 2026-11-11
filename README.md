@@ -100,16 +100,16 @@ cd E-Commerce-Sales-Data-Analysis
    ```
    jupyter notebook
    ```
-4. Run all cells (**Kernel → Restart & Run All**).
+4. Run all cells ( **Kernel → Restart & Run All** ).
 
 ## 🚀 Future Improvements
 
 - Customer segmentation and repeat-purchase analysis
 - Sales forecasting with time-series models
-- Interactive dashboard (Power BI or Plotly)
+- Interactive dashboard with Plotly
 
 ## 📬 Contact
 
-**Hassan Mukhtar**
+** Hassan Mukhtar **
 - LinkedIn: www.linkedin.com/in/hassan-mukhtar-753016283
 - Email: hassanmukhtar722@gmail.com
